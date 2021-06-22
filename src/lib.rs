@@ -1,4 +1,4 @@
-use common::traits::{ 
+use yew_common::traits::{ 
     ToClass,
     ToDynClass
 };
