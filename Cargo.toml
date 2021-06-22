@@ -8,7 +8,6 @@ edition = "2018"
 
 [dependencies]
 common =  { path = "../common" }
-bulma =  { path = "../bulma" }
 
 
 [profile.release]
